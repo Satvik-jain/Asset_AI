@@ -1,3 +1,5 @@
+# Access the application:
+https://huggingface.co/spaces/satvikjain/AssetAI?logs=container
 ---
 title: AssetAI
 emoji: 🏃
@@ -8,5 +10,3 @@ sdk_version: 4.37.2
 app_file: app.py
 pinned: false
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
